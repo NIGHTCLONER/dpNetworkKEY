@@ -1,6 +1,7 @@
 {
   "keys": [
     {"key": "PP", "expires": "2027-12-31", "plan": "premium", "holder": "FATHER"},
-    {"key": "PD", "expires": "2027-12-31", "plan": "premium", "holder": "DAD"}
+    {"key": "PD", "expires": "2027-12-31", "plan": "premium", "holder": "DAD"},
+    {"key": "PJ", "expires": "2027-12-31", "plan": "premium", "holder": "DADA"}
   ]
 }
